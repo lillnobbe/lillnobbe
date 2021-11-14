@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lillnobbe
 - 👀 I’m interested in coding, skiing, dogs, family and adventure!
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Javascript, CSS & HTML.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me here I suppose.
 
